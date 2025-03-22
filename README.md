@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ticket System
 
 > Ticket system application built with the MERN stack that allow teams to manage bugs, requests, and other support tickets.
@@ -17,3 +18,6 @@
 
 [Vector Le](https://www.vectorle.xyz)
 
+=======
+# management-system-AestheticsLab
+>>>>>>> 1e23c0c4c4c7cff49c1774349a0290f74dc8fd89
